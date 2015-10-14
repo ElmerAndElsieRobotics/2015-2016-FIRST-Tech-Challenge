@@ -210,4 +210,4 @@ public class K9IrSeeker extends OpMode {
 
 	}
 
-}
+}// Yo. This be IrSeeker. Easy read.
