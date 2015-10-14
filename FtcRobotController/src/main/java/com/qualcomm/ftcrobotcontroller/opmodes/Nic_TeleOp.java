@@ -41,7 +41,7 @@ import com.qualcomm.robotcore.util.Range;
  * <p>
  * Enables control of the robot via the gamepad
  */
-// All that was done in this file, was I changed the name of the file and the class. Other than that it is the same as the K9TeleOp they gave us
+ // All that was done in this file, was I changed the name of the file and the class. Other than that it is the same as the K9TeleOp they gave us
 public class Nic_TeleOp extends OpMode {
 
     /*
